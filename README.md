@@ -5,8 +5,11 @@ Esse vídeo traz uma curta abordagem sobre os principais desafios que um codific
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para elaboração de conteúdo;
+
 IA ElevenLabs para transformar texto em voz utilizando a tecnologia text to speech
+
 IA Leonardo.AI para gerar imagens;
+
 IA D-ID para geração de avatar e unificação de voz e geração final do vídeo.
 
 ## 🧐 Processo de Criação
