@@ -18,7 +18,7 @@ Primeiro utilizei o ChatGPT para fazer uma busca sobre o tema apresentado, depoi
 ## 🚀 Resultados
 O vídeo traz uma abordagem curta sobre os desafios apresentados para quem entra no mundo da codificação e algumas sugestões para se obter exito nesse mercado que traz tanta inovação de forma acelerada e constante.
 
-Link projeto: ProjetoJaneAI.mp4
+Link projeto: https://github.com/JaneAzevedo/lab-natty-or-not/blob/29b649d11121533e717fb791108ecd57503aa045/ProjetoJaneAI.mp4
 
 ## 💭 Reflexão (Opcional)
 Foi excelente, um momneto de colocar a mão na prática e conhecer mais as ferramentas que estamos vendo no Bootcamp CAIXA e isso traz reflexões e aprendizados e muito conheciento.
